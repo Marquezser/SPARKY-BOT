@@ -10,13 +10,13 @@ global.antitags = true
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
 //global.autoRecord = false //auto recording (true to on, false to off)
 
-global.Owner = ['917012984396']
-global.OwnerNumber = ['917012984396']
-global.ownertag = ['917012984396']
-global.BotName = "SPARKY BOT"
-global.packname = "SPARKY BOT"
-global.author = "By: Aswin"
-global.OwnerName = "Aswin Sparky"
+global.Owner = ['919746220372']
+global.OwnerNumber = ['919746220372']
+global.ownertag = ['919746220372']
+global.BotName = "MARQUEZ BOT"
+global.packname = "marquez⁷⁰⁰💫"
+global.author = "By: AmaL"
+global.OwnerName = "Marquez AmaL"
 global.BotSourceCode = "https://github.com/Sparkymon777/SPARKY-BOT"
 global.SupportGroupLink = "https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh"
 global.sessionName = "session"
@@ -27,9 +27,9 @@ global.prefa = ['.']
 
 
 global.location = "Kerala, India"
-global.reactmoji = "❤️"
-global.themeemoji = "💖"
-global.vidmenu = { url: 'https://i.imgur.com/iaWuQRB.jpeg' }
+global.reactmoji = "💜"
+global.themeemoji = "🍁"
+global.vidmenu = { url: 'https://telegra.ph/file/a27fd17da9112c218eef9.jpg' }
 global.websitex = "https://github.com/Sparkymon777"
 global.lolhuman = "S P A R K Y"
 
